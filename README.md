@@ -1,4 +1,4 @@
-# Data Processing and Analysis Project
+# Data Lake
 
 This project demonstrates a complete data pipeline for integrating Oracle and Cassandra databases, processing data using Apache Spark, storing it in HDFS, and analyzing it with Hive, Trino, and Tableau.
 
